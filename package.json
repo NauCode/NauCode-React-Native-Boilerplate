@@ -1,5 +1,5 @@
 {
-  "name": "NauCode Boilerplate",
+  "name": "NauCodeBoilerplate",
   "version": "0.0.1",
   "scripts": {
     "start": "react-native start",
@@ -32,6 +32,7 @@
     "react-native-gesture-handler": "^1.5.1",
     "react-native-reanimated": "^1.7.1",
     "react-native-screens": "^2.0.0-alpha.3",
+    "react-native-splash-screen": "^3.2.0",
     "react-navigation": "^4.0.10",
     "react-navigation-drawer": "^2.3.3",
     "react-navigation-helpers": "0.1.0",
