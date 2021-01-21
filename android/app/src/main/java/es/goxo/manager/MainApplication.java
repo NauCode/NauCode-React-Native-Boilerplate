@@ -1,4 +1,4 @@
-package com.rnboilerplate;
+package es.goxo.manager;
 
 import android.app.Application;
 import android.content.Context;

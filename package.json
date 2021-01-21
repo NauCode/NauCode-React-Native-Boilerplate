@@ -1,6 +1,6 @@
 {
-  "name": "@freakycoder/react-native-redux-boilerplate",
-  "version": "0.2.0",
+  "name": "NauCode Boilerplate",
+  "version": "0.0.1",
   "scripts": {
     "start": "react-native start",
     "test": "jest",
@@ -21,11 +21,7 @@
     "ui-lib",
     "rn"
   ],
-  "homepage": "https://www.freakycoder.com",
-  "bugs": "https://github.com/WrathChaos/react-native-redux-boilerplate/issues",
-  "main": "./lib/src/index.js",
-  "repository": "git@github.com:WrathChaos/react-native-redux-boilerplate.git",
-  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "author": "Alberto (NauCode) <nautadev@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@freakycoder/react-native-helpers": "1.0.1",
